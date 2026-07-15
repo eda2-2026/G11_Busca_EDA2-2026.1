@@ -104,7 +104,7 @@ A BST oferece buscas com correspondência exata:
 
 ## Link da Gravação
 
-[Gravação](['https://youtu.be/NgO77wnP8zo](https://www.youtube.com/watch?v=xPTlW5xn-eg'))
+[Gravação](https://www.youtube.com/watch?v=xPTlW5xn-eg)
 
 ## Explicação da árvore binária de busca
 
